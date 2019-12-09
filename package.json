@@ -10,7 +10,7 @@
   "keywords": [
     "BuckleScript"
   ],
-  "author": "",
+  "author": "Dennis Kaffer",
   "license": "MIT",
   "devDependencies": {
     "bs-platform": "^5.2.1",
